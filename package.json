@@ -24,7 +24,7 @@
     "prettier": "prettier --write '**/*.{js,json,md,yml}'"
   },
   "author": "Whitespace",
-  "license": "MIT",
+  "license": "AGPL",
   "devDependencies": {
     "@babel/cli": "^7.7.0",
     "@babel/core": "^7.7.4",
